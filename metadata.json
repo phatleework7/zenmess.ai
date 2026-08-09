@@ -1,0 +1,6 @@
+{
+  "name": "ZenMess AI - Tidy Up English Game",
+  "description": "Interactive tidying web game inspired by Oops Tidy Up, teaching English vocabulary, IPA phonetics, Vietnamese translations, and spatial instructions powered by Gemini AI image analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
